@@ -1,0 +1,17 @@
+{
+  "name": "group_chat_app",
+  "version": "1.0.0",
+  "description": "simple chat app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js",
+    "start-server": "app.js"
+  },
+  "author": "Praveen gaur",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  }
+}
